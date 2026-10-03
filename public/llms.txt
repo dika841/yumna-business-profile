@@ -1,0 +1,29 @@
+# Yumna Makeup
+
+> Yumna Makeup adalah makeup artist yang berbasis di Kota Bandung, Jawa Barat.
+
+## Business
+
+- Name: Yumna Makeup
+- Category: Makeup Artist
+- Location: Bandung, Jawa Barat
+- Service Area: Kota Bandung
+
+## Services
+
+- Wedding Makeup
+- Engagement Makeup
+- Graduation Makeup
+- Party & Event Makeup
+
+## Booking
+
+Booking dan konsultasi dilakukan melalui WhatsApp.
+
+## Website
+
+https://yumnamakeup.com/
+
+## Important
+
+Yumna Makeup saat ini fokus melayani customer di wilayah Kota Bandung.
